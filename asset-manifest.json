@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.68b36833.css",
+    "main.js": "/portfolio/static/js/main.aac00161.js",
+    "static/media/foodShopVideo.mp4": "/portfolio/static/media/foodShopVideo.f7675018b28094a68b81.mp4",
+    "static/media/about-me-image.jpg": "/portfolio/static/media/about-me-image.bf6cc4932bfa90b84708.jpg",
+    "static/media/boxicons.svg": "/portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/skills-image.jpg": "/portfolio/static/media/skills-image.f28788e8e75c553f47f3.jpg",
+    "static/media/boxicons.woff": "/portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/codepen-ss.png": "/portfolio/static/media/codepen-ss.d3d9bb048c04e5d97f73.png",
+    "static/media/my-experience-image.jpg": "/portfolio/static/media/my-experience-image.6047f60e0860bef3ad4b.jpg",
+    "static/media/boxicons.woff2": "/portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/dashboardss.png": "/portfolio/static/media/dashboardss.f935fba58f3af617444e.png",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio/index.html",
+    "main.68b36833.css.map": "/portfolio/static/css/main.68b36833.css.map",
+    "main.aac00161.js.map": "/portfolio/static/js/main.aac00161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b36833.css",
+    "static/js/main.aac00161.js"
+  ]
+}
