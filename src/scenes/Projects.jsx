@@ -86,15 +86,16 @@ const ProjectSlides=()=> {
           />
            
 
-           <div className="text-center mt-[30px] pb-[20px]" style={{textAlign:"justify"}}>
+           <div className="text-center mt-[30px] pb-[20px]" >
           
-
+<p className="text-left">
   Technologies used:  PostgreSQL, React.js, Node.js. 
-  <p className="pt-[10px]"> This is an app designed to act as a dasboard for teachers which they can use to view their timetable and details about the different classes they teach.
+  </p>
+  <p className="pt-[10px] text-justify"> This is an app designed to act as a dasboard for teachers which they can use to view their timetable and details about the different classes they teach.
   Refer to the github repo for a more detailed description of this project.
 </p>
 
-<a className='text-blue underline block ' href="https://github.com/Thahmidur-R/teacherdashboard" rel="noreferrer" target="_blank">
+<a className='text-blue underline block text-left' href="https://github.com/Thahmidur-R/teacherdashboard" rel="noreferrer" target="_blank">
   <i className='bx bxl-github'></i> Click to view the github repository
 </a>
 
